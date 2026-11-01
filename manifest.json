@@ -1,0 +1,15 @@
+{
+  "name": "Report Card Filler",
+  "short_name": "ReportCards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
