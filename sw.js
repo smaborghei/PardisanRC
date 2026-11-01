@@ -1,7 +1,7 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('report-cards-v2').then((cache) => cache.addAll([
-      '/', '/index.html', '/main.js', '/template.pdf'
+      './', 'index.html', 'main.js', 'template.pdf'
     ]))
   );
 });
